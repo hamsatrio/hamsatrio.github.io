@@ -5,22 +5,21 @@
 
 ---
 
-#### Trabalhos recentes
+### Trabalhos recentes
+
+##### Num apartamento perdido na cidade: Anoitecer
 
 **![img](https://lh4.googleusercontent.com/GvVGsaUa0ivvUB6UcFBFJCKLSewW9COODQ8lgMtbojiq2JBjSo-V3ppl1dRbJUIBDJcEr3vccc88Wfmidkvl1PzHIPVqgfYcnUpbPzbSzzoW8jvsDIh3bC4uuggV26E2hCsNNW-k)**
 
-**Num apartamento perdido na cidade: Anoitecer****
 > vídeo com áudio descrição: [**https://www.youtube.com/watch?v=64xD1vUbt_I**](https://www.youtube.com/watch?v=64xD1vUbt_I) | vídeo sem áudio descrição: [**https://www.youtube.com/watch?v=Vm1oJbNQ-nM**](https://www.youtube.com/watch?v=Vm1oJbNQ-nM)
 
+##### Num apartamento perdido na cidade: Negative
 
 ![img](https://lh4.googleusercontent.com/C1PtWubf2I7tjsDUjV4anAwN23CTeFblC_Upt6IejhdKWFDinBhaAumQjNNeYaemHyJdwe2Lua7kOau0_GrQ9aL8B-YAnGQX0Lp1urqvkVrRinCuXXNjZd8cN8yPrUxcrocyWT-e)
 
-**Num apartamento perdido na cidade: Negative**
-
 > Apresentada ao 2º Salão de arte em pequenos formatos do museu de arte de britânia 2020 | vídeo em [**https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be**](https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be)
 
-
-#### Sobre Hamsá Trio
+### Sobre Hamsá Trio
 
 O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com novas mídias (programação criativa).
 
