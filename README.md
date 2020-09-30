@@ -23,7 +23,7 @@
 
 ![](assets/colors.png)
 
-> https://youtu.be/pz2nTNICrkc
+> [https://youtu.be/pz2nTNICrkc](https://youtu.be/pz2nTNICrkc)
 
 ### Sobre Hamsá Trio
 
