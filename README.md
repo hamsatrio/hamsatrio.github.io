@@ -19,8 +19,9 @@
 
 > Enviado ao 2º Salão de arte em pequenos formatos do museu de arte de britânia 2020 | vídeo em [**https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be**](https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be)
 
-##### Num apartamento perdido na cidade: colors
+##### Num apartamento perdido na cidade: Colors
 
+![](assets/colors.png)
 
 > https://youtu.be/pz2nTNICrkc
 
