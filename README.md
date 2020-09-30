@@ -19,6 +19,11 @@
 
 > Enviado ao 2º Salão de arte em pequenos formatos do museu de arte de britânia 2020 | vídeo em [**https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be**](https://www.youtube.com/watch?v=SELTJ98-Ijo&feature=youtu.be)
 
+##### Num apartamento perdido na cidade: colors
+
+
+> https://youtu.be/pz2nTNICrkc
+
 ### Sobre Hamsá Trio
 
 O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com novas mídias (programação criativa).
