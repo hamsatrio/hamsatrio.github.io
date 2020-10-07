@@ -27,7 +27,7 @@
 
 ### Sobre Hamsá Trio
 
-O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com novas mídias (programação criativa).
+O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com arte mídia (*new media art*, programação criativa).
 
 **André Papi** é Performer Sonoro, Compositor de trilhas para Teatro, Dança, Performance e suas variações. Também é Compositor e Produtor Musical. Formado em Produção Musical pela Anhembi Morumbi em 2012 via ProUni e na SP Escola de Teatro em Sonoplastia, tendo uma breve passagem pelo curso de História na USP nos efervescentes anos de 2013 a 2014. É membro fundador do coletivo de teatro preto Não É Safari.
 
