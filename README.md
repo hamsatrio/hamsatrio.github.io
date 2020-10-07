@@ -17,7 +17,7 @@
 
 ![img](https://lh4.googleusercontent.com/C1PtWubf2I7tjsDUjV4anAwN23CTeFblC_Upt6IejhdKWFDinBhaAumQjNNeYaemHyJdwe2Lua7kOau0_GrQ9aL8B-YAnGQX0Lp1urqvkVrRinCuXXNjZd8cN8yPrUxcrocyWT-e)
 
-> Enviado ao 2º Salão de arte em pequenos formatos do museu de arte de britânia 2020 | vídeo em [**https://www.youtube.com/watch?v=-6mbx9ZIs8o*]https://www.youtube.com/watch?v=-6mbx9ZIs8o&feature=youtu.be)
+> Enviado ao 2º Salão de arte em pequenos formatos do museu de arte de britânia 2020 | vídeo em [**https://www.youtube.com/watch?v=-6mbx9ZIs8o*](https://www.youtube.com/watch?v=-6mbx9ZIs8o&feature=youtu.be)
 
 ##### Num apartamento perdido na cidade: Colors
 
