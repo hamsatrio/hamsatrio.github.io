@@ -18,7 +18,8 @@ function gray(i) {
 
 
 function preload() {
-  song = loadSound('/audio.mp3');
+  song = loadSound('audio.mp3');
+  song.loop();  
 }
 
 
@@ -30,7 +31,6 @@ function setup() {
 	rectMode(CENTER);
 	frameRate(25);
 	noCursor(); // test
-  song.loop();  
 }
 
 function draw() {
@@ -58,11 +58,11 @@ function draw() {
 	point(mouseX, mouseY);
   
   if (!songStarted) {
-   textSize(40);
+   textSize(30);
    noStroke();
    fill(64);
    textAlign(CENTER, CENTER); 
-   text("desenhe clicando e arrastando o mouse/dedo", width / 2, height / 2);
+   text("clique e arraste para desenhar.\nclick and drag to draw.", width / 2, height / 2);
   }
 }
 
@@ -77,5 +77,10 @@ function mousePressed() {
   if (!songStarted) {
     song.play();
     songStarted = true;
+    fullscreen(true);
   }
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
 }
