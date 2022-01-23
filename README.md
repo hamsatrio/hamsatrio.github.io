@@ -7,6 +7,16 @@
 
 ### Trabalhos recentes
 
+---
+##### Blaqstar
+
+![](assets/blaqstar1.png)
+
+Instalaçaõ audiovisual interativa que tem por base a música *Blaqstar* de André Papi.
+Apresentada no festival [PERFÍDIA ONLINE 2021](https://www.plataformaperfidia.com/perfidia-online-2021). Pode ser visitada em [hamsatrio.lugaralgum.com/blaqstar](https://hamsatrio.lugaralgum.com/blaqstar).
+
+---
+
 ##### Num apartamento perdido na cidade: Anoitecer
 
 **![img](https://lh4.googleusercontent.com/GvVGsaUa0ivvUB6UcFBFJCKLSewW9COODQ8lgMtbojiq2JBjSo-V3ppl1dRbJUIBDJcEr3vccc88Wfmidkvl1PzHIPVqgfYcnUpbPzbSzzoW8jvsDIh3bC4uuggV26E2hCsNNW-k)**
