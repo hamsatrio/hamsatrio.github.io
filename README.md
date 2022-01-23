@@ -5,17 +5,28 @@
 
 ---
 
+O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com arte mídia (*new media art*, programação criativa).
+
+---
+
+**André Papi** é Performer Sonoro, Compositor de trilhas para Teatro, Dança, Performance e suas variações. Também é Compositor e Produtor Musical. Formado em Produção Musical pela Anhembi Morumbi em 2012 via ProUni e na SP Escola de Teatro em Sonoplastia, tendo uma breve passagem pelo curso de História na USP nos efervescentes anos de 2013 a 2014. É membro fundador do coletivo de teatro preto Não É Safari.
+
+**Sandra Rocha** é arquiteta formada pela FAU Mackenzie (2002), em Organização em Eventos pelo Senac (2012) e formanda na SP Escola de Teatro no Curso Técnico de Iluminação no âmbito das Artes Cênicas e Artes Visuais (2020), tendo realizado projetos nas áreas de Arquitetura, Design de interiores, Cenografia teatral, Organização e Decoração de eventos sociais. Sócia Fundadora da Empresa Sotie Eventos.
+
+**Alexandre Villares** é professor, artista visual e consultor em novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em um contexto visual. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da Noite de Processing em São Paulo e dos colabora com a organização dos eventos Processing Community Day no Brasil. Ministra cursos e oficinas em diversas instituições, desenvolve atividades como educador de tecnologias e artes no Sesc Av.Paulista.
+
+---
+
 ### Trabalhos recentes
 
 ---
+
 ##### Blaqstar
 
 ![](assets/blaqstar1.png)
 
 Instalaçaõ audiovisual interativa que tem por base a música *Blaqstar* de André Papi.
 Apresentada no festival [PERFÍDIA ONLINE 2021](https://www.plataformaperfidia.com/perfidia-online-2021). Pode ser visitada em [hamsatrio.lugaralgum.com/blaqstar](https://hamsatrio.lugaralgum.com/blaqstar).
-
----
 
 ##### Num apartamento perdido na cidade: Anoitecer
 
@@ -35,12 +46,3 @@ Apresentada no festival [PERFÍDIA ONLINE 2021](https://www.plataformaperfidia.c
 
 > [https://youtu.be/pz2nTNICrkc](https://youtu.be/pz2nTNICrkc)
 
-### Sobre Hamsá Trio
-
-O Grupo Hamsá Trio foi reunido por Sandra Rocha, cujo contato inicial com André Papi foi em trabalhos conjuntos na SP Escola de Teatro, tendo se juntado ao grupo Alexandre Villares em virtude do desejo de realizar experimentações audiovisuais com arte mídia (*new media art*, programação criativa).
-
-**André Papi** é Performer Sonoro, Compositor de trilhas para Teatro, Dança, Performance e suas variações. Também é Compositor e Produtor Musical. Formado em Produção Musical pela Anhembi Morumbi em 2012 via ProUni e na SP Escola de Teatro em Sonoplastia, tendo uma breve passagem pelo curso de História na USP nos efervescentes anos de 2013 a 2014. É membro fundador do coletivo de teatro preto Não É Safari.
-
-**Sandra Rocha** é arquiteta formada pela FAU Mackenzie (2002), em Organização em Eventos pelo Senac (2012) e formanda na SP Escola de Teatro no Curso Técnico de Iluminação no âmbito das Artes Cênicas e Artes Visuais (2020), tendo realizado projetos nas áreas de Arquitetura, Design de interiores, Cenografia teatral, Organização e Decoração de eventos sociais. Sócia Fundadora da Empresa Sotie Eventos.
-
-**Alexandre Villares** é professor, artista visual e consultor em novas mídias. Pesquisa práticas artísticas que se valem de meios computacionais e o ensino de programação em um contexto visual. Arquiteto pela FAU-USP (2000) e mestre pela FEC-Unicamp (2019). Co-organizador da Noite de Processing em São Paulo e dos colabora com a organização dos eventos Processing Community Day no Brasil. Ministra cursos e oficinas em diversas instituições, desenvolve atividades como educador de tecnologias e artes no Sesc Av.Paulista.
